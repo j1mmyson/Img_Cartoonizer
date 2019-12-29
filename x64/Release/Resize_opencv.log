@@ -1,0 +1,14 @@
+﻿  test.cpp
+C:\Users\bwson\source\repos\Resize_opencv\Resize_opencv\test.cpp(181,16): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\bwson\source\repos\Resize_opencv\Resize_opencv\test.cpp(182,16): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\bwson\source\repos\Resize_opencv\Resize_opencv\test.cpp(183,16): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\bwson\source\repos\Resize_opencv\Resize_opencv\test.cpp(185,13): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\bwson\source\repos\Resize_opencv\Resize_opencv\test.cpp(192,16): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\bwson\source\repos\Resize_opencv\Resize_opencv\test.cpp(193,16): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\bwson\source\repos\Resize_opencv\Resize_opencv\test.cpp(194,16): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다.
+  1 of 197 functions ( 0.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  Resize_opencv.vcxproj -> C:\Users\bwson\source\repos\Resize_opencv\x64\Release\Resize_opencv.exe
